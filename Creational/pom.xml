@@ -12,6 +12,7 @@
         <module>Singleton</module>
         <module>Prototype</module>
         <module>FactoryMethod</module>
+        <module>Builder</module>
     </modules>
 
 
